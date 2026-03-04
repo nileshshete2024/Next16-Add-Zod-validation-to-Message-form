@@ -17,7 +17,6 @@ export default function Navigation() {
   const isActive = (href) => {
     return pathname === href;
   };
-  
 
   const themeToggleButton = (
     <button
