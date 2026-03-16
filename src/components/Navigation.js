@@ -35,7 +35,7 @@ export default function Navigation() {
     { href: "/courses", label: "Courses" },
     { href: "/chat", label: "Course Chat Rooms" },
     { href: "/checkout", label: "Checkout" },
-    // { href: "/about/team", label: "Our Team" },
+    { href: "/about/team", label: "Our Team" },
     { href: "/contact", label: "Contact" },
   ];
 
