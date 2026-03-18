@@ -43,6 +43,7 @@ export default function Navigation() {
     <header className="bg-white dark:bg-slate-800 p-4 shadow">
       <nav className="flex justify-between items-center">
         {/* Left side — App pages */}
+        
         <div className="flex items-center gap-4">
           <button
             className="md:hidden px-2 py-1 border rounded-md cursor-pointer"
