@@ -27,6 +27,7 @@ export default function CourseCard({
           loading="lazy"
         />
 
+
         {/* Duration Badge */}
         {course.duration && (
           <div

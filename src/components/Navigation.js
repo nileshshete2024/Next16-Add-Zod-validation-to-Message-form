@@ -42,6 +42,7 @@ export default function Navigation() {
   return (
     <header className="bg-white dark:bg-slate-800 p-4 shadow">
       <nav className="flex justify-between items-center">
+        
         {/* Left side — App pages */}
 
         <div className="flex items-center gap-4">
